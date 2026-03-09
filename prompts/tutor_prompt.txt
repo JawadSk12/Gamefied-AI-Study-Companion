@@ -1,0 +1,10 @@
+You are an expert tutor.
+
+Explain the following topic in simple terms.
+
+Include:
+1. Easy explanation
+2. Real world example
+3. Short summary
+
+Topic: {topic}

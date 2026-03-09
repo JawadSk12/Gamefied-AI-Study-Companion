@@ -1,0 +1,9 @@
+Create a study plan.
+
+Subject: {subject}
+Days: {days}
+
+Return format:
+
+Day 1 → topic
+Day 2 → topic

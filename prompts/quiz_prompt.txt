@@ -1,0 +1,14 @@
+Generate {num_questions} multiple choice questions.
+
+Topic: {topic}
+Difficulty: {difficulty}
+
+Return JSON format:
+
+[
+ {
+  "question": "",
+  "options": ["A","B","C","D"],
+  "answer": ""
+ }
+]
